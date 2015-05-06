@@ -1,0 +1,116 @@
+/* {
+    box-sizing: border-box;
+    border: 1px solid red;
+}*/
+
+body {
+    margin-top: 63px;
+    margin-right: 100px;
+}
+
+div.container {
+    margin-left: 400px;
+}
+
+p.articletext {
+    color: white;
+    font-family: Lato, Calibri, Arial, san-serif;
+    font-size: 19px;
+    font-weight: 300;
+}
+
+article.ricebean {
+    background-color: #80C0E9;
+    width: 714px;
+    height: 362px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-top: 0px;
+    maring-bottom: 16px;
+    padding:16px;
+    color: white;
+    font-family: Lato, Calibri, Arial, san-serif;
+    font-size: 19px;
+    font-weight: 300;
+
+}
+
+article.greenradish {
+    background-color: #5aa2c9;
+    width: 714px;
+    height: 262px;
+    margin-left: 400px;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    maring-bottom: 16px;
+    border-radius: 5px;
+    padding:16px;
+    color: white;
+    font-family: Lato, Calibri, Arial, san-serif;
+    font-size: 19px;
+    font-weight: 300;
+
+}
+
+aside.left-side {
+    float: left;
+    /*possition: absolute;
+    left: 0;*/
+    width:400px;
+    text-align: right;
+}
+
+/*i {
+    font-size: 22px;
+    line-height: 36px;
+}*/
+
+hr {
+    /* hr.style-two { */
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+
+}
+
+
+.fa {
+    display: inline-block;
+    border: 4px solid #5aa2c9;
+    border-radius: 50%;
+    background-color: #80C0E9;
+    width: 50px;
+    height: 50px;
+    font-size: 42px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.verticalline {
+    border-left: thick solid #5aa2c9;
+    margin-left: 368px;
+}
+
+hr.vertical {
+    width: 4px;
+    height: 200px;
+    border-color: #5aa2c9;
+
+}
+
+div.date-time {
+    float: right;
+    margin-right: 50px;
+    margin-top:62px;
+}
+
+h1 {
+    font-family: Lato, Calibri, Arial, san-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
