@@ -1,11 +1,4 @@
-/** {
-    box-sizing: border-box;
-    border: 1px solid red;
-}*/
-
 body {
-    /*margin-top: 63px;
-    margin-right: 100px;*/
     padding-top: 25px;
     font-family: "Lato", sans-serif;
 }
@@ -38,6 +31,26 @@ body {
 .fa, .verticalline1, .verticalline2 {
 	position: relative;
 	top: -15px;
+}
+
+#upup {
+    top: -35px;
+}
+
+#upup1 {
+    top: -35px;
+}
+
+#up {
+    top: -35px;
+}
+
+#up2 {
+    top: -70px;
+}
+
+#up3 {
+    top: -77px;
 }
 
 .verticalline1, .verticalline2 {
