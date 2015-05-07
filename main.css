@@ -1,7 +1,7 @@
-* {
+/** {
     box-sizing: border-box;
     border: 1px solid red;
-}
+}*/
 
 body {
     margin-top: 63px;
@@ -27,7 +27,7 @@ article.ricebean {
     margin-right: auto;
     border-radius: 5px;
     margin-top: 0px;
-    maring-bottom: 16px;
+    margin-bottom: 16px;
     padding:16px;
     color: white;
     font-family: Lato, Calibri, Arial, san-serif;
@@ -102,20 +102,19 @@ hr {
 
 .verticalline {
     border-left: thick solid #5aa2c9;
-    margin-left: 358px;
-    margin-top: 50px;
+    margin-left: 362px;
 }
 
 }
 
 div.date {
-    float: left;
+    float: right;
     margin-right: 50px;
     max-width: 150px;
 }
 
 div.time {
-    float: left;
+    float: right;
     margin-right: 50px;
     max-width: 150px
 }
